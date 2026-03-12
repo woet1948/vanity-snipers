@@ -1,1 +1,1 @@
-# vanity-snipers
+kardesimizin eski altyapisi
