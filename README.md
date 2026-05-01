@@ -1,1 +1,0 @@
-kardesimizin eski altyapisi
